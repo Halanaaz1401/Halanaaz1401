@@ -1,27 +1,155 @@
-# 💫 About Me:
-About Me<br><br>I’m currently working as a GenAI Engineer, focused on building practical, production-ready AI systems.<br>I come from a non-CS background, but I’m deeply invested in mastering the foundations and scaling toward real-world GenAI products.<br><br>🔭 Currently working on: GenAI engineering projects & long-term roadmap<br><br>🤝 Looking to collaborate on: Open-source projects, hackathons, and GenAI builders’ communities<br><br>🧠 Looking for help with: Data Structures & Algorithms, System Design<br><br>🌱 Currently learning: GenAI foundations and the future of AI systems<br><br>💬 Ask me about: Python, learning GenAI from scratch, and future-focused AI engineering<br><br>⚡ Fun fact: Non-CS background, but driven by vision, consistency, and long-term thinking
+[Hala_Naaz_GitHub_Profile_README.md](https://github.com/user-attachments/files/31949395/Hala_Naaz_GitHub_Profile_README.md)[Uploading Hala_Naaz_GitHub_P# Hala Naaz
 
+### Cybersecurity Student • AI Red Teamer • Security Researcher
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/hala-naaz1401) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Halanaaz1401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Halanaaz1401&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Halanaaz1401&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Halanaaz1401&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Halanaaz1401&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.ashlynxcyber.in/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/hala-naaz/">LinkedIn</a> •
+  <a href="https://github.com/Halanaaz1401">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Halanaaz1401&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm Hala Naaz, a cybersecurity student exploring security through hands-on labs, practical projects, experiments, and research.
+
+My primary interests are **AI Red Teaming, AI/LLM Security, and Security Research**, with additional focus on **SOC/defensive security and cloud security**.
+
+I prefer understanding how systems work, testing their assumptions, investigating what happens when they fail, and building practical security solutions from what I learn.
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 AI Red Teaming & AI Security
+- 🔬 Security Research & Vulnerability Analysis
+- 🧠 LLM, RAG & AI Agent Security
+- 🛡️ SOC Operations & Defensive Security
+- ☁️ Cloud & Infrastructure Security
+- ⚙️ Security Automation & Tool Building
+
+---
+
+## 🚀 Currently Building
+
+### 🏥 Healysis
+AI-powered healthcare and supply-chain resilience platform.
+
+### 🛡️ ThreatLens
+Cyber Threat Intelligence & SOC Analytics Platform.
+
+### 🔎 Cyberion Defense Labs
+Detection engineering and threat hunting experiments.
+
+---
+
+## 🔬 Research Interests
+
+I'm interested in exploring security questions around:
+
+- AI Red Teaming
+- Prompt Injection & LLM Attacks
+- AI Agent Security
+- RAG Security
+- Tool / Function Abuse
+- AI Application Security
+- Security Automation
+- Threat Intelligence
+- Detection Engineering
+- Cloud Security
+- Emerging Cybersecurity Threats
+
+---
+
+## 🧪 Hands-on Learning
+
+I use practical environments to turn concepts into experience:
+
+- TryHackMe
+- CTFs
+- Home Labs
+- Security Experiments
+- Controlled Attack & Defense Scenarios
+- Detection & Investigation Exercises
+
+---
+
+## 🧭 How I Learn
+
+> **DON'T MEMORIZE → UNDERSTAND → BUILD → TEST → BREAK → ANALYZE → DEFEND → RESEARCH → CREATE**
+
+I use this approach to move from learning a concept to actually testing it, understanding its weaknesses, and creating something useful from it.
+
+---
+
+## 🧰 Technical Stack
+
+### Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,git,github" alt="Cybersecurity and Linux tools">
+</p>
+
+**Security:** SOC • SIEM • Threat Intelligence • Threat Hunting • Detection Engineering • Incident Response • Security Testing
+
+### AI / GenAI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Python technologies">
+</p>
+
+**Focus:** LLM Security • AI Agents • RAG • AI Security Testing • Security Automation
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nextjs,postgres,docker" alt="Development technologies">
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,nginx,docker,linux" alt="Cloud and infrastructure technologies">
+</p>
+
+---
+
+## 📚 Writing & Documentation
+
+I document what I learn and build through:
+
+- Security lab writeups
+- Real-world case studies
+- Cybersecurity resources
+- Technical articles
+- Security research
+- Project documentation
+
+🌐 **Portfolio:** https://www.ashlynxcyber.in/
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Halanaaz1401&show_icons=true&hide_border=true&rank_icon=github" alt="Hala Naaz GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halanaaz1401&layout=compact&hide_border=true" alt="Hala Naaz Top Languages">
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.ashlynxcyber.in/">Website</a> •
+  <a href="https://www.linkedin.com/in/hala-naaz/">LinkedIn</a> •
+  <a href="https://t.me/+k-X4Dry1E-9mYTA1">Telegram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learn. Build. Break. Analyze. Defend. Research. Create.</i>
+</p>
+rofile_README.md…]()
