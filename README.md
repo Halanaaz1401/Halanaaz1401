@@ -1,4 +1,4 @@
-[Hala_Naaz_GitHub_Profile_README.md](https://github.com/user-attachments/files/31949395/Hala_Naaz_GitHub_Profile_README.md)[Uploading Hala_Naaz_GitHub_P# Hala Naaz
+# Hala Naaz
 
 ### Cybersecurity Student • AI Red Teamer • Security Researcher
 
@@ -10,24 +10,28 @@
 
 ---
 
-## 🧠 About Me
+## 🛡️ About Me
 
-I'm Hala Naaz, a cybersecurity student exploring security through hands-on labs, practical projects, experiments, and research.
+Hello! I'm **Hala Naaz**. Coming from a non-technical background, my deep curiosity for systems and resilience drove me to build my path through continuous hands-on learning, experimentation, and practical projects across cybersecurity, cloud infrastructure, and AI engineering.
 
-My primary interests are **AI Red Teaming, AI/LLM Security, and Security Research**, with additional focus on **SOC/defensive security and cloud security**.
+Today, through **AshlynxCyber**, I specialize in defensive security engineering, cloud infrastructure hardening, secure migrations, and building custom automated security tools tailored for modern engineering workflows.
 
-I prefer understanding how systems work, testing their assumptions, investigating what happens when they fail, and building practical security solutions from what I learn.
+<p align="center">
+  <strong>🔐 Cybersecurity</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🤖 AI Security & GenAI</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>☁️ Cloud Security & Infrastructure</strong>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🤖 AI Red Teaming & AI Security
-- 🔬 Security Research & Vulnerability Analysis
-- 🧠 LLM, RAG & AI Agent Security
-- 🛡️ SOC Operations & Defensive Security
-- ☁️ Cloud & Infrastructure Security
-- ⚙️ Security Automation & Tool Building
+- 🤖 **AI Red Teaming & AI Security**
+- 🔬 **Security Research & Vulnerability Analysis**
+- 🧠 **LLM, RAG & AI Agent Security**
+- 🛡️ **SOC & Defensive Security**
+- ☁️ **Cloud & Infrastructure Security**
+- ⚙️ **Security Automation & Tool Building**
 
 ---
 
@@ -75,42 +79,30 @@ I use practical environments to turn concepts into experience:
 
 ---
 
-## 🧭 How I Learn
+## 🧰 Technical Arsenal
 
-> **DON'T MEMORIZE → UNDERSTAND → BUILD → TEST → BREAK → ANALYZE → DEFEND → RESEARCH → CREATE**
+### 🛡️ Defensive Security
 
-I use this approach to move from learning a concept to actually testing it, understanding its weaknesses, and creating something useful from it.
+**SOC Operations • SIEM • Threat Intelligence • Threat Hunting • Detection Engineering • Incident Response • Log Analysis**
+
+### 🔴 AI Red Teaming & AI Security
+
+**LLM Security • Prompt Injection Testing • AI Agent Security • RAG Security • Adversarial Testing • Security Automation**
+
+### ☁️ Cloud & Infrastructure Security
+
+**AWS • Linux • Docker • Nginx • DNS • SSL/TLS • Infrastructure Hardening**
+
+### ⚙️ Security Engineering & Development
+
+**Python • FastAPI • JavaScript • TypeScript • PostgreSQL • REST APIs • Git • GitHub**
 
 ---
 
-## 🧰 Technical Stack
+## 💻 Technologies
 
-### Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,git,github" alt="Cybersecurity and Linux tools">
-</p>
-
-**Security:** SOC • SIEM • Threat Intelligence • Threat Hunting • Detection Engineering • Incident Response • Security Testing
-
-### AI / GenAI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Python technologies">
-</p>
-
-**Focus:** LLM Security • AI Agents • RAG • AI Security Testing • Security Automation
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nextjs,postgres,docker" alt="Development technologies">
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,nginx,docker,linux" alt="Cloud and infrastructure technologies">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,fastapi,nextjs,react,postgres,docker,aws,cloudflare,nginx,linux,git,github,pytorch,tensorflow" alt="Technical stack">
 </p>
 
 ---
@@ -150,6 +142,5 @@ I document what I learn and build through:
 ---
 
 <p align="center">
-  <i>Learn. Build. Break. Analyze. Defend. Research. Create.</i>
+  <i>Learn. Build. Test. Analyze. Defend. Research. Create.</i>
 </p>
-rofile_README.md…]()
