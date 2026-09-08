@@ -1,6 +1,6 @@
 # Hala Naaz
 
-### Cybersecurity Professional  • AI Red Teaming • Security Research • Security Tools Developer
+### Cybersecurity Professional  • AI Red Teaming • Security Research • Security Tool Developer
 
 <p align="center">
   <a href="https://www.ashlynxcyber.in/">Portfolio</a> •
